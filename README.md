@@ -1,2 +1,7 @@
 # Membua bio data menggunakan shell
->> langkah langkah
+> langkah-langkahnya
+> git clone
+> ls
+> cd
+> ls
+> bash 
